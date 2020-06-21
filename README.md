@@ -23,17 +23,17 @@ The dataset provided contains pixel ifnormtion of many 28x28 grayscale images of
 a) Split data into dependent and independent variables, 
 b) Visualize the data,
 c) Class visualization,
-d) Average visualization 
+d) Average visualization,
 
 ## Binary Classification
 
 Logistic Regression to perform binary classification
 
-e) If the item is piece of clothing (T-shit, pullover, shirt, trouser, dress, or coat), label it as 1, and rest as 0
-f) Binary Classification Model 
-g) Predict test data and report accuracy, confusion matrix, precision, recall and f1 score
-h) Evluate model using ROC and precision-recall curve
-i) Plot learning curve of logistic regression model
+e) If the item is piece of clothing (T-shit, pullover, shirt, trouser, dress, or coat), label it as 1, and rest as 0,
+f) Binary Classification Model ,
+g) Predict test data and report accuracy, confusion matrix, precision, recall and f1 score,
+h) Evluate model using ROC and precision-recall curve,
+i) Plot learning curve of logistic regression model,
 
 ## Multiclass classification using Logistic Regression
 
@@ -42,10 +42,10 @@ k) Test logistic regression,
 
 ## Multiclass Classification using SVR
 
-l) Grid Search to find best model
-m) Test the best model
+l) Grid Search to find best model,
+m) Test the best model,
 
 ## Multiclass Classification using Decision Trees
 
-n) Grid Search to find best model
-o) Test the best model 
+n) Grid Search to find best model,
+o) Test the best model.
